@@ -1,0 +1,1 @@
+MR7D:\backendkb\KnowledgeBase.Api\KnowledgeBase.Api.csproj¢net8.0òCSharp12
