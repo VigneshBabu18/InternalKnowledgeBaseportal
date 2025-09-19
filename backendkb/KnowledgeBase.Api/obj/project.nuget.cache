@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IZdgmnIwVLM=",
+  "dgSpecHash": "5stkdZgJo+Q=",
   "success": true,
-  "projectFilePath": "D:\\backendkb\\backendkb\\KnowledgeBase.Api\\KnowledgeBase.Api.csproj",
+  "projectFilePath": "D:\\Final_Review_Day\\backendkb\\KnowledgeBase.Api\\KnowledgeBase.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vignesh.kumaran\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\vignesh.kumaran\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

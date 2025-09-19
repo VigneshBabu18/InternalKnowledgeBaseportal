@@ -3096,11 +3096,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\backendkb\\backendkb\\KnowledgeBase.Api\\KnowledgeBase.Api.csproj",
+      "projectUniqueName": "D:\\Final_Review_Day\\backendkb\\KnowledgeBase.Api\\KnowledgeBase.Api.csproj",
       "projectName": "KnowledgeBase.Api",
-      "projectPath": "D:\\backendkb\\backendkb\\KnowledgeBase.Api\\KnowledgeBase.Api.csproj",
+      "projectPath": "D:\\Final_Review_Day\\backendkb\\KnowledgeBase.Api\\KnowledgeBase.Api.csproj",
       "packagesPath": "C:\\Users\\vignesh.kumaran\\.nuget\\packages\\",
-      "outputPath": "D:\\backendkb\\backendkb\\KnowledgeBase.Api\\obj\\",
+      "outputPath": "D:\\Final_Review_Day\\backendkb\\KnowledgeBase.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
